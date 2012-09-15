@@ -1,0 +1,72 @@
+/* This file will hold the main styles for your website. */
+
+.page-node
+{
+background-color: lightblue;
+}
+
+.zone-branding, 
+.zone-branding a:link, 
+.zone-branding a:visited,
+.zone-branding a:hover,
+.zone-branding a:active
+{
+background-color: blue;
+color: white;
+}
+
+{
+color: white;
+}
+
+h1.site-name, h2.site-name {
+    font-size: 48px;
+    color: white;
+}
+
+.site-slogan {
+margin-top: 15px;
+font-size: 30px;
+}
+
+.zone-menu,
+.zone-menu a:link,
+.zone-menu a:visited,
+.zone-menu a:hover,
+.zone-menu a:active 
+{
+background-color: gray;
+color: white;
+}
+
+.zone-user,
+.zone-user a:link,
+.zone-user a:visited,
+.zone-user a:hover,
+.zone-user a:active 
+{
+background-color: lightgray;
+color: black;
+}
+
+.section-header ul li.leaf 
+{
+list-style: none outside none;
+list-style-type: none;
+list-style-image: none;
+}
+
+.section-header ul li,
+.section-header ul li a
+{
+float: left;
+}
+
+.section-content #breadcrumb
+{
+display: none;
+}
+
+.alpha-resize-indicator {
+background: none;
+}
